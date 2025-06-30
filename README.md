@@ -32,7 +32,7 @@ I love building scalable, clean, and secure web applications while continuously 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/omar-mahamad-omd)
+- [LinkedIn](https://www.linkedin.com/in/omar-mahamad-omd/)
 - 📧 omarmahamadomd@gmail.com
 
 ---
