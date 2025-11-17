@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**🎓 AI Engineering Graduate** | **💼 Back-End .NET Developer** | **🌍 Cairo, Egypt**
+**🎓 AI Engineering Graduate** | **💼 Seeking Back-End .NET Opportunities** | **🌍 Cairo, Egypt**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-mahamad-omd)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarmahamadomd@gmail.com)
@@ -18,16 +18,38 @@
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-**Back-End .NET Developer** specializing in building **scalable, secure RESTful APIs** with Clean Architecture principles. Fresh graduate with hands-on experience in **4+ production-ready projects** serving **500+ users** across healthcare, AI, and enterprise systems.
+```csharp
+public class OmarMohammed : BackEndDeveloper
+{
+    public string Specialization => "ASP.NET Core Web APIs";
+    public string[] CoreSkills => new[] 
+    { 
+        "Clean Architecture", 
+        "RESTful API Design", 
+        "Microservices Patterns",
+        "Security & Authentication"
+    };
+    
+    public ProjectStats GetAchievements()
+    {
+        return new ProjectStats
+        {
+            CompletedProjects = 4,
+            TechnologiesUsed = "ASP.NET Core, EF Core, Docker, Azure",
+            TeamLeadership = "Led graduation project team of 5",
+            Impact = "Built systems serving 500+ users"
+        };
+    }
+}
+```
 
-### 🎯 What I Bring
-- 🏗️ **4+ Production Projects** using Clean Architecture & SOLID principles
-- 🔐 **Security-First Approach**: JWT authentication, role-based access, secure payment integration
-- 👥 **Team Leadership**: Led 5-person graduation project team from concept to deployment
-- 📚 **Continuous Learner**: Self-taught Docker, CI/CD pipelines, and Azure cloud services
-- 🧪 **Best Practices**: Repository Pattern, Dependency Injection, API versioning, comprehensive logging
+### 🚀 What I Bring
+- 🏗️ **4+ Production-Ready Projects** using Clean Architecture & SOLID principles
+- 🔐 **Security-First Mindset**: JWT, Role-Based Access, Secure Payment Integration
+- 🧪 **Best Practices**: Repository Pattern, Dependency Injection, API Versioning
+- 📚 **Fast Learner**: Self-taught Docker, CI/CD, and Cloud Deployment (Azure)
 
 ---
 
@@ -166,22 +188,23 @@
 
 ## 🌱 Currently Learning
 
-**Focus Areas:**
-
-**🏗️ Architecture & Design**
-- Microservices with API Gateway (Ocelot)
-- Event-Driven Architecture with RabbitMQ
-- CQRS pattern with MediatR
-
-**☁️ DevOps & Infrastructure**
-- Docker Compose for multi-container applications
-- Azure App Service deployment strategies
-- CI/CD pipelines with GitHub Actions
-
-**⚡ Advanced Topics**
-- Real-time communication with SignalR
-- Redis caching strategies
-- gRPC for service-to-service communication
+```yaml
+Focus Areas:
+  Architecture:
+    - Microservices with API Gateway (Ocelot)
+    - Event-Driven Architecture (RabbitMQ)
+    - CQRS with MediatR
+  
+  DevOps:
+    - Docker Compose multi-container apps
+    - Azure App Service deployment
+    - CI/CD with GitHub Actions
+  
+  Advanced Topics:
+    - Real-time communication (SignalR)
+    - Redis caching strategies
+    - gRPC for service-to-service communication
+```
 
 ---
 
