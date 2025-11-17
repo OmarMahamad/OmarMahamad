@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**🎓 AI Engineering Graduate** | **💼 Seeking Back-End .NET Opportunities** | **🌍 Cairo, Egypt**
+**🎓 AI Engineering Graduate** | **💼 Back-End .NET Developer** | **🌍 Cairo, Egypt**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-mahamad-omd)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarmahamadomd@gmail.com)
@@ -18,38 +18,16 @@
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-```csharp
-public class OmarMohammed : BackEndDeveloper
-{
-    public string Specialization => "ASP.NET Core Web APIs";
-    public string[] CoreSkills => new[] 
-    { 
-        "Clean Architecture", 
-        "RESTful API Design", 
-        "Microservices Patterns",
-        "Security & Authentication"
-    };
-    
-    public ProjectStats GetAchievements()
-    {
-        return new ProjectStats
-        {
-            CompletedProjects = 4,
-            TechnologiesUsed = "ASP.NET Core, EF Core, Docker, Azure",
-            TeamLeadership = "Led graduation project team of 5",
-            Impact = "Built systems serving 500+ users"
-        };
-    }
-}
-```
+**Back-End .NET Developer** specializing in building **scalable, secure RESTful APIs** with Clean Architecture principles. Fresh graduate with hands-on experience in **4+ production-ready projects** serving **500+ users** across healthcare, AI, and enterprise systems.
 
-### 🚀 What I Bring
-- 🏗️ **4+ Production-Ready Projects** using Clean Architecture & SOLID principles
-- 🔐 **Security-First Mindset**: JWT, Role-Based Access, Secure Payment Integration
-- 🧪 **Best Practices**: Repository Pattern, Dependency Injection, API Versioning
-- 📚 **Fast Learner**: Self-taught Docker, CI/CD, and Cloud Deployment (Azure)
+### 🎯 What I Bring
+- 🏗️ **4+ Production Projects** using Clean Architecture & SOLID principles
+- 🔐 **Security-First Approach**: JWT authentication, role-based access, secure payment integration
+- 👥 **Team Leadership**: Led 5-person graduation project team from concept to deployment
+- 📚 **Continuous Learner**: Self-taught Docker, CI/CD pipelines, and Azure cloud services
+- 🧪 **Best Practices**: Repository Pattern, Dependency Injection, API versioning, comprehensive logging
 
 ---
 
@@ -166,10 +144,11 @@ public class OmarMohammed : BackEndDeveloper
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmarMahamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMahamad&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarMahamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true)](https://github.com/OmarMahamad)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMahamad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=OmarMahamad&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/OmarMahamad)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMahamad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=repo1,repo2)](https://github.com/OmarMahamad)
 
 </div>
 
@@ -188,23 +167,22 @@ public class OmarMohammed : BackEndDeveloper
 
 ## 🌱 Currently Learning
 
-```yaml
-Focus Areas:
-  Architecture:
-    - Microservices with API Gateway (Ocelot)
-    - Event-Driven Architecture (RabbitMQ)
-    - CQRS with MediatR
-  
-  DevOps:
-    - Docker Compose multi-container apps
-    - Azure App Service deployment
-    - CI/CD with GitHub Actions
-  
-  Advanced Topics:
-    - Real-time communication (SignalR)
-    - Redis caching strategies
-    - gRPC for service-to-service communication
-```
+**Focus Areas:**
+
+**🏗️ Architecture & Design**
+- Microservices with API Gateway (Ocelot)
+- Event-Driven Architecture with RabbitMQ
+- CQRS pattern with MediatR
+
+**☁️ DevOps & Infrastructure**
+- Docker Compose for multi-container applications
+- Azure App Service deployment strategies
+- CI/CD pipelines with GitHub Actions
+
+**⚡ Advanced Topics**
+- Real-time communication with SignalR
+- Redis caching strategies
+- gRPC for service-to-service communication
 
 ---
 
