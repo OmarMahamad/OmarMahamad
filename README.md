@@ -110,8 +110,10 @@ I am a **Software Engineer** specializing in **.NET Back-End Architecture** and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmarMahamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMahamad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="48%" />
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=OmarMahamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&text_color=C9D1D9&count_private=true&include_all_commits=true)](https://github.com/OmarMahamad)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmarMahamad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9&langs_count=6)](https://github.com/OmarMahamad)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=OmarMahamad&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=C9D1D9)](https://github.com/OmarMahamad)
 
 </div>
 
