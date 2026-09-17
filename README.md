@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Download Resume](https://img.shields.io/badge/📄_Resume-Download_CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1LV-yIG0IXE-lWFUW7zeWRvzdBByG1Yjw/view?usp=drive_link)
+[![Download Resume](https://img.shields.io/badge/📄_Resume-Download_CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/file/d/1LV-yIG0IXE-lWFUW7zeWRvzdBByG1Yjw/view?usp=drive_link](https://drive.google.com/file/d/19KHciw7wEl6zJGlTvVDPJtX2JGHBtXjl/view?usp=sharing))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mahamad-omd)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201015850226)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarmahamadomd@gmail.com)
