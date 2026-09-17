@@ -123,8 +123,8 @@ I am a **Software Engineer** specializing in **.NET Back-End Architecture** and 
 
 * **B.Sc. in Artificial Intelligence** — Egyptian Russian University (*Graduation Project: One Blood — Grade: A+*)
 * **Information Technology Institute (ITI)** — Back-End .NET Development Track (Intensive Program)
-* **Industry Experience:** Full-Stack .NET Developer at **Clutch** (Engineered API & SQLite synchronization, background worker services, and resolved 70+ compiler warnings across POS/Inventory modules).
-* **Awards:** Ranked among **Top 30 Teams Nationwide** at the *Egyptian Grand Museum Hackathon 2* (AI Backend Integration).
+* **Industry Experience:** Full-Stack .NET Developer at **Clutch** (Jan 2026 – Jun 2026: Engineered API & SQLite synchronization, background worker services, and resolved 70+ compiler warnings across POS/Inventory modules).
+* **Leadership & Awards:** Backend & AI Team Lead at the *Grand Egyptian Museum (GEM Hackathon 2)* — Led overnight delivery of an AI vision & tourist engagement pipeline, ranking among **Top 30 Teams Nationwide** prior to the museum's opening.
 
 ---
 
